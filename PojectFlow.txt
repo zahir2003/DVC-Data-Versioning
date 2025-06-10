@@ -16,3 +16,8 @@
 14. Then git add-commit-push (we are saving GF1 of our data at this point)
 15. Check dvc/git status, everything should be upto date.
 16. Now repeat step 12-14 for GF2 of data.
+
+
+git log --oneline
+git checkout <hash> - git checked master
+dvc pull 
